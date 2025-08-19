@@ -1,4 +1,4 @@
-movie_id,title,original_title,original_language,release_date,runtime,budget,revenue,vote_average,vote_count,popularity,genres,production_companies,production_countries,release_year,release_month,roi
+﻿movie_id,title,original_title,original_language,release_date,runtime,budget,revenue,vote_average,vote_count,popularity,genres,production_companies,production_countries,release_year,release_month,roi
 670,올드보이,올드보이,ko,2003-11-21,120,3000000,17500000,8.252,9150,11.6819,"['드라마', '스릴러', '미스터리', '액션']","['Show East', 'Egg Film', 'Cineclick Asia']",['KR'],2003,11,4.833333333333333
 1255,괴물,괴물,ko,2006-07-27,119,11000000,88489643,6.98,2931,4.4383,"['공포', '드라마', 'SF']","['Chungeorahm Film', 'Showbox']",['KR'],2006,7,7.044513
 1963,활,활,ko,2005-05-12,88,950000,2032404,6.921,208,1.2098,['드라마'],"['Kim Ki Duk Film', 'Happinet Pictures', 'Cineclick Asia']","['JP', 'KR']",2005,5,1.1393726315789474
@@ -14,7 +14,6 @@ movie_id,title,original_title,original_language,release_date,runtime,budget,reve
 33196,해운대,해운대,ko,2009-07-22,129,16000000,71641901,6.9,474,2.7069,"['액션', '드라마', '스릴러']","['Polygon Entertainment', 'CJ Entertainment', 'JK Film']",['KR'],2009,7,3.4776188125
 35010,슈퍼맨이었던 사나이,슈퍼맨이었던 사나이,ko,2008-01-31,102,4250000,3848034,7.4,64,1.0979,"['코미디', '드라마', '로맨스']",['CJ Entertainment'],['KR'],2008,1,-0.09458023529411765
 43212,내 깡패 같은 애인,내 깡패 같은 애인,ko,2010-05-20,105,800000,4214668,6.8,15,1.0436,"['로맨스', '코미디', '드라마']","['Lotte Entertainment', 'JK Film']",['KR'],2010,5,4.268335
-47649,빼꼼의 머그잔 여행,빼꼼의 머그잔 여행,ko,2007-03-22,76,5900000,618400,3.8,5,0.3635,"['애니메이션', '가족', '코미디', '모험']","['BRB Internacional', 'RG Animation Studios', 'Screen 21']","['KR', 'ES']",2007,3,-0.8951864406779662
 49797,악마를 보았다,악마를 보았다,ko,2010-08-12,144,6000000,12966357,7.802,2755,5.6661,"['스릴러', '공포']","['Softbank Ventures', 'Peppermint & Company', 'Siz Entertainment', 'Finecut', 'Michigan Venture Capital', 'Showbox', 'CJ Investment']",['KR'],2010,8,1.1610595
 51200,포화 속으로,포화 속으로,ko,2010-06-16,120,10400000,20967660,7.515,201,1.7205,['전쟁'],"['Taewon Entertainment', 'UBU Film', 'H Plus Communication', 'Lotte Entertainment', 'Korean Film Council', 'CJ Entertainment', 'Finecut', 'M-Venture Investment']",['KR'],2010,6,1.0161211538461539
 51608,아저씨,아저씨,ko,2010-08-04,119,1255000,43059790,7.699,1380,4.6157,"['액션', '스릴러', '범죄']","['Opus Pictures', 'CJ Entertainment', 'United Pictures', 'M-Line Distribution']",['KR'],2010,8,33.31058964143426
@@ -37,7 +36,6 @@ movie_id,title,original_title,original_language,release_date,runtime,budget,reve
 160704,베를린,베를린,ko,2013-01-30,120,9000000,48965210,6.7,209,1.7718,"['액션', '스릴러', '범죄']","['CJ Entertainment', 'Filmmaker R&K', 'Union Investment Partners']",['KR'],2013,1,4.440578888888889
 214209,숨바꼭질,숨바꼭질,ko,2013-08-14,107,1900000,35461505,6.5,100,0.9601,"['스릴러', '미스터리']","['Next Entertainment World', 'Studio Dream Capture']",['KR'],2013,8,17.66395
 227783,넛잡: 땅콩 도둑들,The Nut Job,en,2014-01-17,86,42000000,120885527,5.857,1000,2.508,"['애니메이션', '코미디', '가족', '모험']","['Open Road Films', 'GulfStream Pictures', 'Redrover', 'ToonBox Entertainment']","['CA', 'KR', 'US']",2014,1,1.8782268333333334
-230883,손님은 왕이다,손님은 왕이다,ko,2006-02-23,104,10000,80000,5.5,8,1.5087,['스릴러'],[],[],2006,2,7.0
 282631,명량,명량,ko,2014-07-30,128,9500000,138342258,6.988,300,1.9273,"['전쟁', '액션', '드라마', '역사']",['Big Stone Pictures'],['KR'],2014,7,13.562342947368421
 285213,해적: 바다로 간 산적,해적: 바다로 간 산적,ko,2014-08-06,129,13000000,64400000,6.998,226,3.1456,"['액션', '모험', '코미디', '판타지']","['Lotte Entertainment', 'Harimao Pictures', 'Cinedigm']",['KR'],2014,8,3.953846153846154
 290098,아가씨,아가씨,ko,2016-06-01,144,8575000,38600000,8.202,4000,14.0548,"['스릴러', '드라마', '로맨스']","['Moho Film', 'Yong Film', 'CJ Entertainment']",['KR'],2016,6,3.501457725947522
@@ -46,7 +44,6 @@ movie_id,title,original_title,original_language,release_date,runtime,budget,reve
 318541,워킹걸,워킹걸,ko,2015-01-07,112,28600000,998000,5.7,17,2.2994,"['코미디', '로맨스']","['Soo Film', 'Hong Film', 'Plus M Entertainment', 'kth']",['KR'],2015,1,-0.965104895104895
 346646,베테랑,베테랑,ko,2015-08-05,123,7528230,87970000,6.927,226,1.9549,"['액션', '범죄', '코미디', '스릴러']","['Filmmaker R&K', 'Froniter Works Comic', 'Stone Comics Entertainment', 'CJ Entertainment', 'filmK']",['KR'],2015,8,10.685349677148546
 363579,밀정,밀정,ko,2016-09-07,140,9620000,53165427,7.2,347,1.6778,"['액션', '스릴러']","['Harbin', 'Warner Bros. Korea', 'Dark Circle Pictures']",['KR'],2016,9,4.526551663201663
-387845,무수단,무수단,ko,2016-03-03,87,500,500,6.1,9,1.8997,"['미스터리', '스릴러', '액션']","['Opus Pictures', 'Golden Tide Pictures']",['KR'],2016,3,0.0
 390497,터널,터널,ko,2016-08-10,126,1000000,52444295,7.305,610,2.3042,"['스릴러', '드라마']","['BA Entertainment', 'Showbox']",['KR'],2016,8,51.444295
 396535,부산행,부산행,ko,2016-07-20,118,8500000,87547518,7.753,7912,14.5036,"['공포', '스릴러', '액션', '모험']","['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'KTB Network']",['KR'],2016,7,9.299708
 397567,신과함께-죄와 벌,신과함께-죄와 벌,ko,2017-12-20,139,18300000,125983972,8.07,1099,5.4082,"['액션', '모험', '드라마', '판타지', '스릴러']","['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Korean Film Council', 'Alpha Pictures', 'kth', 'Union Investment Partners']",['KR'],2017,12,5.884370054644808
@@ -57,14 +54,12 @@ movie_id,title,original_title,original_language,release_date,runtime,budget,reve
 437068,택시운전사,택시운전사,ko,2017-08-02,137,12820005,81927980,8.058,1065,3.6569,"['액션', '드라마', '역사']","['The LAMP', 'Showbox']",['KR'],2017,8,5.390635573075049
 437103,1987,1987,ko,2017-12-27,129,12308000,49380115,8.117,158,1.6982,"['드라마', '역사', '스릴러']","['CJ Entertainment', 'Woojeong Film']",['KR'],2017,12,3.0120340428989274
 437109,악녀,악녀,ko,2017-06-08,123,125000,8737458,6.909,723,2.281,"['액션', '범죄', '드라마', '스릴러']","['Apeitda', 'Next Entertainment World', 'Contents Panda']",['KR'],2017,6,68.899664
-441189,터닝메카드W: 블랙미러의 부활,터닝메카드W: 블랙미러의 부활,ko,2017-01-18,72,1000000,2775228,0.0,0,1.5401,"['애니메이션', 'TV 영화']",['(주)희원엔터테인먼트'],['KR'],2017,1,1.775228
 479718,범죄도시,범죄도시,ko,2017-10-03,121,5900000,52946454,7.679,474,6.8052,"['액션', '범죄', '스릴러']","['Hong Film', 'BA Entertainment']",['KR'],2017,10,7.973975254237288
 486589,레드슈즈,레드슈즈,ko,2019-07-25,92,20000000,10054356,7.7,1107,6.078,"['애니메이션', '판타지', '가족', '코미디', '로맨스', '모험']","['Sidus', 'Next Entertainment World', 'LOCUS Corporation', 'Finecut', 'Sidus Animation']",['KR'],2019,7,-0.4972822
 491584,버닝,버닝,ko,2018-05-17,148,7280000,6591038,7.382,1692,3.9276,"['미스터리', '드라마', '스릴러']","['Pinehouse Film', 'NOWFILM', 'NHK']","['JP', 'KR']",2018,5,-0.09463763736263736
 496243,기생충,기생충,ko,2019-05-30,131,11363000,257591776,8.498,19364,15.6336,"['코미디', '스릴러', '드라마']",['Barunson E&A'],['KR'],2019,5,21.669345771363197
 517991,공작,공작,ko,2018-08-08,137,17000000,3175,7.389,198,1.6817,"['드라마', '역사', '스릴러']","['Sanai Pictures', 'Moonlight Film', 'CJ Entertainment']",['KR'],2018,8,-0.9998132352941177
 518068,신과함께-인과 연,신과함께-인과 연,ko,2018-08-01,141,18300000,112790210,8.068,700,4.6059,"['액션', '모험', '판타지', '스릴러']","['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Union Investment Partners', 'Korean Film Council', 'Art Service', 'Alpha Pictures']",['KR'],2018,8,5.1633994535519125
-524435,신 전래동화,신 전래동화,ko,2018-04-25,83,100000,100,4.0,2,0.6899,['코미디'],['Oh’YES'],['KR'],2018,4,-0.999
 530254,마녀,마녀,ko,2018-06-27,125,5500000,24340302,7.894,654,7.463,"['액션', '미스터리', 'SF']","['Peppermint & Company', 'Warner Bros. Korea', 'Goldmoon Film', 'Finecut', 'Huayi Tencent Entertainment', 'Union Investment Partners']","['HK', 'KR']",2018,6,3.4255094545454545
 535389,안시성,안시성,ko,2018-09-19,135,13305000,41509280,6.8,173,2.4536,"['전쟁', '역사', '액션']","['Soojak Film', 'Next Entertainment World', 'Studio & New']",['KR'],2018,9,2.119825629462608
 544627,암수살인,암수살인,ko,2018-10-03,110,7120949,29433930,6.628,86,1.0853,"['범죄', '드라마']","['Film 295', 'Blossom Pictures', 'Showbox']",['KR'],2018,10,3.133428002363168
@@ -87,9 +82,6 @@ movie_id,title,original_title,original_language,release_date,runtime,budget,reve
 726139,탈출: 프로젝트 사일런스,탈출: 프로젝트 사일런스,ko,2024-07-11,96,14750000,6283415,7.0,352,7.8078,"['스릴러', '액션', '공포', 'SF', '모험']","['Blaad Studios', 'CJ ENM', 'CJ ENM Studios', 'CJ Entertainment']",['KR'],2024,7,-0.5740057627118644
 727340,헌트,헌트,ko,2022-08-10,131,17000000,25994,6.731,187,2.6506,"['액션', '미스터리', '드라마']","['Sanai Pictures', 'Artist Studio']",['KR'],2022,8,-0.9984709411764706
 753091,더 문,더 문,ko,2023-08-02,129,20000000,92718,6.547,181,1.6001,"['드라마', '모험', 'SF']","['Blaad Studios', 'CJ ENM Studios', 'NaruN', 'Cinema Plus', 'Dexter Studios', 'CJ Entertainment']",['KR'],2023,8,-0.9953641
-790034,멋진 신세계,멋진 신세계,ko,2012-04-05,41,1600000,636990,0.0,0,1.6347,"['SF', '공포', '코미디']","['Zio Entertainment', 'TimeStory Group']",['KR'],2012,4,-0.60188125
-790037,해피 버스데이,해피 버스데이,ko,2012-04-05,41,1600000,636990,0.0,0,1.1531,"['SF', '코미디']","['Zio Entertainment', 'TimeStory Group']",['KR'],2012,4,-0.60188125
 793058,하이파이브,하이파이브,ko,2025-05-30,120,14450000,10551515,7.095,21,4.3287,"['SF', '액션', '코미디', '판타지']",['Annapurna Films'],['KR'],2025,5,-0.26979134948096883
 799379,늑대사냥,늑대사냥,ko,2022-09-21,122,9000000,20541,6.369,398,4.8181,"['액션', '스릴러', '공포', '범죄']","['The Contents On', 'Contents G', 'Cheum Film', 'Finecut']",['KR'],2022,9,-0.9977176666666666
 928713,소설가의 영화,소설가의 영화,ko,2022-04-21,92,71560,382227,6.6,41,0.8457,['드라마'],['Jeonwonsa Film'],['KR'],2022,4,4.341349916154276
-1212102,하와이 연가,하와이 연가,ko,2024-10-30,62,800000,250000,5.0,1,0.2412,"['음악', '다큐멘터리', '역사', '애니메이션', '드라마']",['Now Production Films'],"['KR', 'US']",2024,10,-0.6875
