@@ -1,0 +1,252 @@
+movie_id,title,original_title,original_language,release_date,runtime,budget,revenue,vote_average,vote_count,popularity,genres,production_companies,production_countries,release_year,release_month,roi
+670,올드보이,올드보이,ko,2003-11-21,120,3000000,17500000,8.252,9150,11.6819,드라마,"['Show East', 'Egg Film', 'Cineclick Asia']",['KR'],2003,11,4.833333333333333
+670,올드보이,올드보이,ko,2003-11-21,120,3000000,17500000,8.252,9150,11.6819,스릴러,"['Show East', 'Egg Film', 'Cineclick Asia']",['KR'],2003,11,4.833333333333333
+670,올드보이,올드보이,ko,2003-11-21,120,3000000,17500000,8.252,9150,11.6819,미스터리,"['Show East', 'Egg Film', 'Cineclick Asia']",['KR'],2003,11,4.833333333333333
+670,올드보이,올드보이,ko,2003-11-21,120,3000000,17500000,8.252,9150,11.6819,액션,"['Show East', 'Egg Film', 'Cineclick Asia']",['KR'],2003,11,4.833333333333333
+1255,괴물,괴물,ko,2006-07-27,119,11000000,88489643,6.98,2931,4.4383,공포,"['Chungeorahm Film', 'Showbox']",['KR'],2006,7,7.044513
+1255,괴물,괴물,ko,2006-07-27,119,11000000,88489643,6.98,2931,4.4383,드라마,"['Chungeorahm Film', 'Showbox']",['KR'],2006,7,7.044513
+1255,괴물,괴물,ko,2006-07-27,119,11000000,88489643,6.98,2931,4.4383,SF,"['Chungeorahm Film', 'Showbox']",['KR'],2006,7,7.044513
+1963,활,활,ko,2005-05-12,88,950000,2032404,6.921,208,1.2098,드라마,"['Kim Ki Duk Film', 'Happinet Pictures', 'Cineclick Asia']","['JP', 'KR']",2005,5,1.1393726315789474
+2015,밀양,밀양,ko,2007-05-23,142,2900000,11581469,7.193,215,1.6151,드라마,"['Cinema Service', 'Pinehouse Film', 'CJ Entertainment']",['KR'],2007,5,2.99361
+10253,디 워,디 워,ko,2007-08-01,92,32000000,75108998,4.525,428,2.35,판타지,"['Younggu-Art Movies', 'Showbox']",['KR'],2007,8,1.3471561875
+10253,디 워,디 워,ko,2007-08-01,92,32000000,75108998,4.525,428,2.35,드라마,"['Younggu-Art Movies', 'Showbox']",['KR'],2007,8,1.3471561875
+10253,디 워,디 워,ko,2007-08-01,92,32000000,75108998,4.525,428,2.35,공포,"['Younggu-Art Movies', 'Showbox']",['KR'],2007,8,1.3471561875
+10253,디 워,디 워,ko,2007-08-01,92,32000000,75108998,4.525,428,2.35,액션,"['Younggu-Art Movies', 'Showbox']",['KR'],2007,8,1.3471561875
+10253,디 워,디 워,ko,2007-08-01,92,32000000,75108998,4.525,428,2.35,스릴러,"['Younggu-Art Movies', 'Showbox']",['KR'],2007,8,1.3471561875
+10253,디 워,디 워,ko,2007-08-01,92,32000000,75108998,4.525,428,2.35,SF,"['Younggu-Art Movies', 'Showbox']",['KR'],2007,8,1.3471561875
+14968,웰컴 투 동막골,웰컴 투 동막골,ko,2005-08-04,133,8000000,33579813,7.445,190,1.2664,코미디,"['Film It Suda', 'Showbox']",['KR'],2005,8,3.197476625
+14968,웰컴 투 동막골,웰컴 투 동막골,ko,2005-08-04,133,8000000,33579813,7.445,190,1.2664,드라마,"['Film It Suda', 'Showbox']",['KR'],2005,8,3.197476625
+14968,웰컴 투 동막골,웰컴 투 동막골,ko,2005-08-04,133,8000000,33579813,7.445,190,1.2664,전쟁,"['Film It Suda', 'Showbox']",['KR'],2005,8,3.197476625
+17903,쌍화점,쌍화점,ko,2008-12-30,132,10000000,18980744,6.899,148,4.6242,드라마,"['Opus Pictures', 'Showbox', 'United Pictures', 'Sponge']",['KR'],2008,12,0.8980744
+18514,두번째 사랑,두번째 사랑,ko,2007-06-20,90,3500000,689473,6.6,44,1.646,드라마,"['NOWFILM', 'Vox3 Films']","['KR', 'US']",2007,6,-0.8030077142857143
+18514,두번째 사랑,두번째 사랑,ko,2007-06-20,90,3500000,689473,6.6,44,1.646,로맨스,"['NOWFILM', 'Vox3 Films']","['KR', 'US']",2007,6,-0.8030077142857143
+19627,무림여대생,무림여대생,ko,2008-06-26,118,7000000,162256,6.519,27,1.6496,코미디,"['Bear Entertainment', 'Prime Entertainment']",['KR'],2008,6,-0.9768205714285715
+19627,무림여대생,무림여대생,ko,2008-06-26,118,7000000,162256,6.519,27,1.6496,로맨스,"['Bear Entertainment', 'Prime Entertainment']",['KR'],2008,6,-0.9768205714285715
+22536,박쥐,박쥐,ko,2009-04-30,133,5000000,13085023,7.097,979,3.2794,드라마,['Moho Film'],['KR'],2009,4,1.6170046
+22536,박쥐,박쥐,ko,2009-04-30,133,5000000,13085023,7.097,979,3.2794,공포,['Moho Film'],['KR'],2009,4,1.6170046
+22536,박쥐,박쥐,ko,2009-04-30,133,5000000,13085023,7.097,979,3.2794,스릴러,['Moho Film'],['KR'],2009,4,1.6170046
+25597,헨젤과 그레텔,헨젤과 그레텔,ko,2007-12-27,116,4000000,2206625,6.7,175,1.5263,판타지,"['Barunson E&A', 'Cineclick Asia', 'CJ Entertainment']",['KR'],2007,12,-0.44834375
+25597,헨젤과 그레텔,헨젤과 그레텔,ko,2007-12-27,116,4000000,2206625,6.7,175,1.5263,드라마,"['Barunson E&A', 'Cineclick Asia', 'CJ Entertainment']",['KR'],2007,12,-0.44834375
+25597,헨젤과 그레텔,헨젤과 그레텔,ko,2007-12-27,116,4000000,2206625,6.7,175,1.5263,공포,"['Barunson E&A', 'Cineclick Asia', 'CJ Entertainment']",['KR'],2007,12,-0.44834375
+30018,마더,마더,ko,2009-05-28,128,5000000,17112713,7.71,1578,3.2601,범죄,"['Barunson E&A', 'CJ Entertainment']",['KR'],2009,5,2.4225426
+30018,마더,마더,ko,2009-05-28,128,5000000,17112713,7.71,1578,3.2601,드라마,"['Barunson E&A', 'CJ Entertainment']",['KR'],2009,5,2.4225426
+30018,마더,마더,ko,2009-05-28,128,5000000,17112713,7.71,1578,3.2601,미스터리,"['Barunson E&A', 'CJ Entertainment']",['KR'],2009,5,2.4225426
+33196,해운대,해운대,ko,2009-07-22,129,16000000,71641901,6.9,474,2.7069,액션,"['Polygon Entertainment', 'CJ Entertainment', 'JK Film']",['KR'],2009,7,3.4776188125
+33196,해운대,해운대,ko,2009-07-22,129,16000000,71641901,6.9,474,2.7069,드라마,"['Polygon Entertainment', 'CJ Entertainment', 'JK Film']",['KR'],2009,7,3.4776188125
+33196,해운대,해운대,ko,2009-07-22,129,16000000,71641901,6.9,474,2.7069,스릴러,"['Polygon Entertainment', 'CJ Entertainment', 'JK Film']",['KR'],2009,7,3.4776188125
+35010,슈퍼맨이었던 사나이,슈퍼맨이었던 사나이,ko,2008-01-31,102,4250000,3848034,7.4,64,1.0979,코미디,['CJ Entertainment'],['KR'],2008,1,-0.09458023529411765
+35010,슈퍼맨이었던 사나이,슈퍼맨이었던 사나이,ko,2008-01-31,102,4250000,3848034,7.4,64,1.0979,드라마,['CJ Entertainment'],['KR'],2008,1,-0.09458023529411765
+35010,슈퍼맨이었던 사나이,슈퍼맨이었던 사나이,ko,2008-01-31,102,4250000,3848034,7.4,64,1.0979,로맨스,['CJ Entertainment'],['KR'],2008,1,-0.09458023529411765
+43212,내 깡패 같은 애인,내 깡패 같은 애인,ko,2010-05-20,105,800000,4214668,6.8,15,1.0436,로맨스,"['Lotte Entertainment', 'JK Film']",['KR'],2010,5,4.268335
+43212,내 깡패 같은 애인,내 깡패 같은 애인,ko,2010-05-20,105,800000,4214668,6.8,15,1.0436,코미디,"['Lotte Entertainment', 'JK Film']",['KR'],2010,5,4.268335
+43212,내 깡패 같은 애인,내 깡패 같은 애인,ko,2010-05-20,105,800000,4214668,6.8,15,1.0436,드라마,"['Lotte Entertainment', 'JK Film']",['KR'],2010,5,4.268335
+49797,악마를 보았다,악마를 보았다,ko,2010-08-12,144,6000000,12966357,7.802,2755,5.6661,스릴러,"['Softbank Ventures', 'Peppermint & Company', 'Siz Entertainment', 'Finecut', 'Michigan Venture Capital', 'Showbox', 'CJ Investment']",['KR'],2010,8,1.1610595
+49797,악마를 보았다,악마를 보았다,ko,2010-08-12,144,6000000,12966357,7.802,2755,5.6661,공포,"['Softbank Ventures', 'Peppermint & Company', 'Siz Entertainment', 'Finecut', 'Michigan Venture Capital', 'Showbox', 'CJ Investment']",['KR'],2010,8,1.1610595
+51200,포화 속으로,포화 속으로,ko,2010-06-16,120,10400000,20967660,7.515,201,1.7205,전쟁,"['Taewon Entertainment', 'UBU Film', 'H Plus Communication', 'Lotte Entertainment', 'Korean Film Council', 'CJ Entertainment', 'Finecut', 'M-Venture Investment']",['KR'],2010,6,1.0161211538461539
+51608,아저씨,아저씨,ko,2010-08-04,119,1255000,43059790,7.699,1380,4.6157,액션,"['Opus Pictures', 'CJ Entertainment', 'United Pictures', 'M-Line Distribution']",['KR'],2010,8,33.31058964143426
+51608,아저씨,아저씨,ko,2010-08-04,119,1255000,43059790,7.699,1380,4.6157,스릴러,"['Opus Pictures', 'CJ Entertainment', 'United Pictures', 'M-Line Distribution']",['KR'],2010,8,33.31058964143426
+51608,아저씨,아저씨,ko,2010-08-04,119,1255000,43059790,7.699,1380,4.6157,범죄,"['Opus Pictures', 'CJ Entertainment', 'United Pictures', 'M-Line Distribution']",['KR'],2010,8,33.31058964143426
+52413,여고괴담 5: 동반자살,여고괴담 5: 동반자살,ko,2009-06-18,88,125000,3470000,5.465,57,2.2197,공포,"['Cine2000', 'Lotte Entertainment']",['KR'],2009,6,26.76
+52413,여고괴담 5: 동반자살,여고괴담 5: 동반자살,ko,2009-06-18,88,125000,3470000,5.465,57,2.2197,드라마,"['Cine2000', 'Lotte Entertainment']",['KR'],2009,6,26.76
+52413,여고괴담 5: 동반자살,여고괴담 5: 동반자살,ko,2009-06-18,88,125000,3470000,5.465,57,2.2197,미스터리,"['Cine2000', 'Lotte Entertainment']",['KR'],2009,6,26.76
+56604,폐가,폐가,ko,2010-08-19,84,300000,83322,4.5,11,0.3367,공포,"['Daisy Entertainment', 'Cinergy House', 'Showbox', 'HY Films']",['KR'],2010,8,-0.72226
+56604,폐가,폐가,ko,2010-08-19,84,300000,83322,4.5,11,0.3367,미스터리,"['Daisy Entertainment', 'Cinergy House', 'Showbox', 'HY Films']",['KR'],2010,8,-0.72226
+70829,라스트 갓파더,라스트 갓파더,en,2010-12-29,103,13400000,16700000,4.2,18,2.824,코미디,"['Younggu-Art Movies', 'CJ Entertainment']",['KR'],2010,12,0.2462686567164179
+70829,라스트 갓파더,라스트 갓파더,en,2010-12-29,103,13400000,16700000,4.2,18,2.824,범죄,"['Younggu-Art Movies', 'CJ Entertainment']",['KR'],2010,12,0.2462686567164179
+70829,라스트 갓파더,라스트 갓파더,en,2010-12-29,103,13400000,16700000,4.2,18,2.824,로맨스,"['Younggu-Art Movies', 'CJ Entertainment']",['KR'],2010,12,0.2462686567164179
+77117,써니,써니,ko,2011-05-04,135,3550000,48000000,7.9,175,1.3493,드라마,['CJ Entertainment'],['KR'],2011,5,12.52112676056338
+77117,써니,써니,ko,2011-05-04,135,3550000,48000000,7.9,175,1.3493,코미디,['CJ Entertainment'],['KR'],2011,5,12.52112676056338
+79224,최종병기 활,최종병기 활,ko,2011-08-10,122,8000000,49000000,7.258,271,2.3414,드라마,"['Lotte Entertainment', 'Dasepo Club', 'DCG Plus', 'Sovik Venture Capital']","['KR', 'US']",2011,8,5.125
+79224,최종병기 활,최종병기 활,ko,2011-08-10,122,8000000,49000000,7.258,271,2.3414,액션,"['Lotte Entertainment', 'Dasepo Club', 'DCG Plus', 'Sovik Venture Capital']","['KR', 'US']",2011,8,5.125
+79224,최종병기 활,최종병기 활,ko,2011-08-10,122,8000000,49000000,7.258,271,2.3414,역사,"['Lotte Entertainment', 'Dasepo Club', 'DCG Plus', 'Sovik Venture Capital']","['KR', 'US']",2011,8,5.125
+79553,고지전,고지전,ko,2011-07-20,133,10000000,15786086,7.2,188,1.6644,드라마,"['TPS Company', 'A-Po Films', 'Showbox']",['KR'],2011,7,0.5786086
+79553,고지전,고지전,ko,2011-07-20,133,10000000,15786086,7.2,188,1.6644,액션,"['TPS Company', 'A-Po Films', 'Showbox']",['KR'],2011,7,0.5786086
+79553,고지전,고지전,ko,2011-07-20,133,10000000,15786086,7.2,188,1.6644,전쟁,"['TPS Company', 'A-Po Films', 'Showbox']",['KR'],2011,7,0.5786086
+81481,도가니,도가니,ko,2011-09-22,124,2200000,31500000,8.157,696,2.972,드라마,"['Sangeori Pictures', 'Fantagio', 'CJ Entertainment']",['KR'],2011,9,13.318181818181818
+82469,더 킥,더 킥,ko,2011-11-03,105,3500000,517069,5.2,39,0.8903,코미디,"['Sahamongkolfilm', 'Baa-Ram-Ewe', 'Bangkok Film Studio', 'CJ Entertainment', 'Golden Network Asia', 'CJ Investment']","['HK', 'KR', 'TH']",2011,11,-0.852266
+82469,더 킥,더 킥,ko,2011-11-03,105,3500000,517069,5.2,39,0.8903,액션,"['Sahamongkolfilm', 'Baa-Ram-Ewe', 'Bangkok Film Studio', 'CJ Entertainment', 'Golden Network Asia', 'CJ Investment']","['HK', 'KR', 'TH']",2011,11,-0.852266
+86262,잘 알지도 못하면서,잘 알지도 못하면서,ko,2009-05-14,128,100000,208867,5.8,33,0.8264,드라마,"['Jeonwonsa Film', 'Finecut']",['KR'],2009,5,1.08867
+86262,잘 알지도 못하면서,잘 알지도 못하면서,ko,2009-05-14,128,100000,208867,5.8,33,0.8264,코미디,"['Jeonwonsa Film', 'Finecut']",['KR'],2009,5,1.08867
+91073,만추,만추,ko,2011-02-17,113,6200000,4820000,6.91,67,1.1179,드라마,"['North by Northwest Entertainment', 'SCS Entertainment', 'Film Workshop']","['CN', 'US', 'KR', 'HK']",2011,2,-0.22258064516129034
+91073,만추,만추,ko,2011-02-17,113,6200000,4820000,6.91,67,1.1179,로맨스,"['North by Northwest Entertainment', 'SCS Entertainment', 'Film Workshop']","['CN', 'US', 'KR', 'HK']",2011,2,-0.22258064516129034
+91078,완득이,완득이,ko,2011-10-20,107,4160000,34000000,6.963,54,1.683,드라마,"['UBU Film', 'CJ Entertainment', 'Another Pictures']",['KR'],2011,10,7.173076923076923
+91078,완득이,완득이,ko,2011-10-20,107,4160000,34000000,6.963,54,1.683,코미디,"['UBU Film', 'CJ Entertainment', 'Another Pictures']",['KR'],2011,10,7.173076923076923
+91088,돼지의 왕,돼지의 왕,ko,2011-11-03,96,130000,13,6.1,79,1.6626,애니메이션,"['Studio Dadashow', 'KT&G Sangsangmadang']",['KR'],2011,11,-0.9999
+91088,돼지의 왕,돼지의 왕,ko,2011-11-03,96,130000,13,6.1,79,1.6626,스릴러,"['Studio Dadashow', 'KT&G Sangsangmadang']",['KR'],2011,11,-0.9999
+91088,돼지의 왕,돼지의 왕,ko,2011-11-03,96,130000,13,6.1,79,1.6626,드라마,"['Studio Dadashow', 'KT&G Sangsangmadang']",['KR'],2011,11,-0.9999
+91088,돼지의 왕,돼지의 왕,ko,2011-11-03,96,130000,13,6.1,79,1.6626,범죄,"['Studio Dadashow', 'KT&G Sangsangmadang']",['KR'],2011,11,-0.9999
+94047,마이웨이,마이웨이,ko,2011-12-21,137,25500000,16653488,7.883,416,2.4363,드라마,"['CJ Entertainment', 'Directors', 'SK Planet']",['KR'],2011,12,-0.34692203921568626
+94047,마이웨이,마이웨이,ko,2011-12-21,137,25500000,16653488,7.883,416,2.4363,액션,"['CJ Entertainment', 'Directors', 'SK Planet']",['KR'],2011,12,-0.34692203921568626
+94047,마이웨이,마이웨이,ko,2011-12-21,137,25500000,16653488,7.883,416,2.4363,역사,"['CJ Entertainment', 'Directors', 'SK Planet']",['KR'],2011,12,-0.34692203921568626
+94047,마이웨이,마이웨이,ko,2011-12-21,137,25500000,16653488,7.883,416,2.4363,전쟁,"['CJ Entertainment', 'Directors', 'SK Planet']",['KR'],2011,12,-0.34692203921568626
+110415,설국열차,설국열차,ko,2013-08-01,127,39200000,86758912,6.906,9937,8.5175,액션,"['Opus Pictures', 'Moho Film', 'CJ Entertainment', 'Union Investment Partners']",['KR'],2013,8,1.213237551020408
+110415,설국열차,설국열차,ko,2013-08-01,127,39200000,86758912,6.906,9937,8.5175,SF,"['Opus Pictures', 'Moho Film', 'CJ Entertainment', 'Union Investment Partners']",['KR'],2013,8,1.213237551020408
+110415,설국열차,설국열차,ko,2013-08-01,127,39200000,86758912,6.906,9937,8.5175,드라마,"['Opus Pictures', 'Moho Film', 'CJ Entertainment', 'Union Investment Partners']",['KR'],2013,8,1.213237551020408
+123377,피에타,피에타,ko,2012-09-06,104,103000,6616296,7.076,389,1.2467,드라마,"['Next Entertainment World', 'Kim Ki Duk Film', 'Finecut']",['KR'],2012,9,63.23588349514563
+134126,회사원,회사원,ko,2012-10-11,96,3500000,7339398,6.754,182,1.8089,드라마,['Showbox'],['KR'],2012,10,1.0969708571428571
+134126,회사원,회사원,ko,2012-10-11,96,3500000,7339398,6.754,182,1.8089,액션,['Showbox'],['KR'],2012,10,1.0969708571428571
+134126,회사원,회사원,ko,2012-10-11,96,3500000,7339398,6.754,182,1.8089,범죄,['Showbox'],['KR'],2012,10,1.0969708571428571
+134126,회사원,회사원,ko,2012-10-11,96,3500000,7339398,6.754,182,1.8089,스릴러,['Showbox'],['KR'],2012,10,1.0969708571428571
+160704,베를린,베를린,ko,2013-01-30,120,9000000,48965210,6.7,209,1.7718,액션,"['CJ Entertainment', 'Filmmaker R&K', 'Union Investment Partners']",['KR'],2013,1,4.440578888888889
+160704,베를린,베를린,ko,2013-01-30,120,9000000,48965210,6.7,209,1.7718,스릴러,"['CJ Entertainment', 'Filmmaker R&K', 'Union Investment Partners']",['KR'],2013,1,4.440578888888889
+160704,베를린,베를린,ko,2013-01-30,120,9000000,48965210,6.7,209,1.7718,범죄,"['CJ Entertainment', 'Filmmaker R&K', 'Union Investment Partners']",['KR'],2013,1,4.440578888888889
+214209,숨바꼭질,숨바꼭질,ko,2013-08-14,107,1900000,35461505,6.5,100,0.9601,스릴러,"['Next Entertainment World', 'Studio Dream Capture']",['KR'],2013,8,17.66395
+214209,숨바꼭질,숨바꼭질,ko,2013-08-14,107,1900000,35461505,6.5,100,0.9601,미스터리,"['Next Entertainment World', 'Studio Dream Capture']",['KR'],2013,8,17.66395
+227783,넛잡: 땅콩 도둑들,The Nut Job,en,2014-01-17,86,42000000,120885527,5.857,1000,2.508,애니메이션,"['Open Road Films', 'GulfStream Pictures', 'Redrover', 'ToonBox Entertainment']","['CA', 'KR', 'US']",2014,1,1.8782268333333334
+227783,넛잡: 땅콩 도둑들,The Nut Job,en,2014-01-17,86,42000000,120885527,5.857,1000,2.508,코미디,"['Open Road Films', 'GulfStream Pictures', 'Redrover', 'ToonBox Entertainment']","['CA', 'KR', 'US']",2014,1,1.8782268333333334
+227783,넛잡: 땅콩 도둑들,The Nut Job,en,2014-01-17,86,42000000,120885527,5.857,1000,2.508,가족,"['Open Road Films', 'GulfStream Pictures', 'Redrover', 'ToonBox Entertainment']","['CA', 'KR', 'US']",2014,1,1.8782268333333334
+227783,넛잡: 땅콩 도둑들,The Nut Job,en,2014-01-17,86,42000000,120885527,5.857,1000,2.508,모험,"['Open Road Films', 'GulfStream Pictures', 'Redrover', 'ToonBox Entertainment']","['CA', 'KR', 'US']",2014,1,1.8782268333333334
+282631,명량,명량,ko,2014-07-30,128,9500000,138342258,6.988,300,1.9273,전쟁,['Big Stone Pictures'],['KR'],2014,7,13.562342947368421
+282631,명량,명량,ko,2014-07-30,128,9500000,138342258,6.988,300,1.9273,액션,['Big Stone Pictures'],['KR'],2014,7,13.562342947368421
+282631,명량,명량,ko,2014-07-30,128,9500000,138342258,6.988,300,1.9273,드라마,['Big Stone Pictures'],['KR'],2014,7,13.562342947368421
+282631,명량,명량,ko,2014-07-30,128,9500000,138342258,6.988,300,1.9273,역사,['Big Stone Pictures'],['KR'],2014,7,13.562342947368421
+285213,해적: 바다로 간 산적,해적: 바다로 간 산적,ko,2014-08-06,129,13000000,64400000,6.998,226,3.1456,액션,"['Lotte Entertainment', 'Harimao Pictures', 'Cinedigm']",['KR'],2014,8,3.953846153846154
+285213,해적: 바다로 간 산적,해적: 바다로 간 산적,ko,2014-08-06,129,13000000,64400000,6.998,226,3.1456,모험,"['Lotte Entertainment', 'Harimao Pictures', 'Cinedigm']",['KR'],2014,8,3.953846153846154
+285213,해적: 바다로 간 산적,해적: 바다로 간 산적,ko,2014-08-06,129,13000000,64400000,6.998,226,3.1456,코미디,"['Lotte Entertainment', 'Harimao Pictures', 'Cinedigm']",['KR'],2014,8,3.953846153846154
+285213,해적: 바다로 간 산적,해적: 바다로 간 산적,ko,2014-08-06,129,13000000,64400000,6.998,226,3.1456,판타지,"['Lotte Entertainment', 'Harimao Pictures', 'Cinedigm']",['KR'],2014,8,3.953846153846154
+290098,아가씨,아가씨,ko,2016-06-01,144,8575000,38600000,8.202,4000,14.0548,스릴러,"['Moho Film', 'Yong Film', 'CJ Entertainment']",['KR'],2016,6,3.501457725947522
+290098,아가씨,아가씨,ko,2016-06-01,144,8575000,38600000,8.202,4000,14.0548,드라마,"['Moho Film', 'Yong Film', 'CJ Entertainment']",['KR'],2016,6,3.501457725947522
+290098,아가씨,아가씨,ko,2016-06-01,144,8575000,38600000,8.202,4000,14.0548,로맨스,"['Moho Film', 'Yong Film', 'CJ Entertainment']",['KR'],2016,6,3.501457725947522
+290751,시크릿 인 데어 아이즈,Secret in Their Eyes,en,2015-10-14,111,19500000,34854990,6.353,1382,2.3015,스릴러,"['Ingenious Media', 'Gran Via Productions', 'IM Global', 'STXfilms', 'Route One Entertainment', 'Union Investment Partners', 'SITE Productions', ""Willie's Movies""]","['KR', 'ES', 'GB', 'US']",2015,10,0.7874353846153846
+290751,시크릿 인 데어 아이즈,Secret in Their Eyes,en,2015-10-14,111,19500000,34854990,6.353,1382,2.3015,미스터리,"['Ingenious Media', 'Gran Via Productions', 'IM Global', 'STXfilms', 'Route One Entertainment', 'Union Investment Partners', 'SITE Productions', ""Willie's Movies""]","['KR', 'ES', 'GB', 'US']",2015,10,0.7874353846153846
+290751,시크릿 인 데어 아이즈,Secret in Their Eyes,en,2015-10-14,111,19500000,34854990,6.353,1382,2.3015,범죄,"['Ingenious Media', 'Gran Via Productions', 'IM Global', 'STXfilms', 'Route One Entertainment', 'Union Investment Partners', 'SITE Productions', ""Willie's Movies""]","['KR', 'ES', 'GB', 'US']",2015,10,0.7874353846153846
+293670,곡성,곡성,ko,2016-05-12,156,10951000,49851770,7.376,1851,4.2005,공포,"['Fox International Productions', 'Ivanhoe Pictures', 'Side Mirror', '20th Century Fox Korea']","['KR', 'US']",2016,5,3.5522573280978906
+293670,곡성,곡성,ko,2016-05-12,156,10951000,49851770,7.376,1851,4.2005,미스터리,"['Fox International Productions', 'Ivanhoe Pictures', 'Side Mirror', '20th Century Fox Korea']","['KR', 'US']",2016,5,3.5522573280978906
+318541,워킹걸,워킹걸,ko,2015-01-07,112,28600000,998000,5.7,17,2.2994,코미디,"['Soo Film', 'Hong Film', 'Plus M Entertainment', 'kth']",['KR'],2015,1,-0.965104895104895
+318541,워킹걸,워킹걸,ko,2015-01-07,112,28600000,998000,5.7,17,2.2994,로맨스,"['Soo Film', 'Hong Film', 'Plus M Entertainment', 'kth']",['KR'],2015,1,-0.965104895104895
+346646,베테랑,베테랑,ko,2015-08-05,123,7528230,87970000,6.927,226,1.9549,액션,"['Filmmaker R&K', 'Froniter Works Comic', 'Stone Comics Entertainment', 'CJ Entertainment', 'filmK']",['KR'],2015,8,10.685349677148546
+346646,베테랑,베테랑,ko,2015-08-05,123,7528230,87970000,6.927,226,1.9549,범죄,"['Filmmaker R&K', 'Froniter Works Comic', 'Stone Comics Entertainment', 'CJ Entertainment', 'filmK']",['KR'],2015,8,10.685349677148546
+346646,베테랑,베테랑,ko,2015-08-05,123,7528230,87970000,6.927,226,1.9549,코미디,"['Filmmaker R&K', 'Froniter Works Comic', 'Stone Comics Entertainment', 'CJ Entertainment', 'filmK']",['KR'],2015,8,10.685349677148546
+346646,베테랑,베테랑,ko,2015-08-05,123,7528230,87970000,6.927,226,1.9549,스릴러,"['Filmmaker R&K', 'Froniter Works Comic', 'Stone Comics Entertainment', 'CJ Entertainment', 'filmK']",['KR'],2015,8,10.685349677148546
+363579,밀정,밀정,ko,2016-09-07,140,9620000,53165427,7.2,347,1.6778,액션,"['Harbin', 'Warner Bros. Korea', 'Dark Circle Pictures']",['KR'],2016,9,4.526551663201663
+363579,밀정,밀정,ko,2016-09-07,140,9620000,53165427,7.2,347,1.6778,스릴러,"['Harbin', 'Warner Bros. Korea', 'Dark Circle Pictures']",['KR'],2016,9,4.526551663201663
+390497,터널,터널,ko,2016-08-10,126,1000000,52444295,7.305,610,2.3042,스릴러,"['BA Entertainment', 'Showbox']",['KR'],2016,8,51.444295
+390497,터널,터널,ko,2016-08-10,126,1000000,52444295,7.305,610,2.3042,드라마,"['BA Entertainment', 'Showbox']",['KR'],2016,8,51.444295
+396535,부산행,부산행,ko,2016-07-20,118,8500000,87547518,7.753,7912,14.5036,공포,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'KTB Network']",['KR'],2016,7,9.299708
+396535,부산행,부산행,ko,2016-07-20,118,8500000,87547518,7.753,7912,14.5036,스릴러,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'KTB Network']",['KR'],2016,7,9.299708
+396535,부산행,부산행,ko,2016-07-20,118,8500000,87547518,7.753,7912,14.5036,액션,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'KTB Network']",['KR'],2016,7,9.299708
+396535,부산행,부산행,ko,2016-07-20,118,8500000,87547518,7.753,7912,14.5036,모험,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'KTB Network']",['KR'],2016,7,9.299708
+397567,신과함께-죄와 벌,신과함께-죄와 벌,ko,2017-12-20,139,18300000,125983972,8.07,1099,5.4082,액션,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Korean Film Council', 'Alpha Pictures', 'kth', 'Union Investment Partners']",['KR'],2017,12,5.884370054644808
+397567,신과함께-죄와 벌,신과함께-죄와 벌,ko,2017-12-20,139,18300000,125983972,8.07,1099,5.4082,모험,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Korean Film Council', 'Alpha Pictures', 'kth', 'Union Investment Partners']",['KR'],2017,12,5.884370054644808
+397567,신과함께-죄와 벌,신과함께-죄와 벌,ko,2017-12-20,139,18300000,125983972,8.07,1099,5.4082,드라마,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Korean Film Council', 'Alpha Pictures', 'kth', 'Union Investment Partners']",['KR'],2017,12,5.884370054644808
+397567,신과함께-죄와 벌,신과함께-죄와 벌,ko,2017-12-20,139,18300000,125983972,8.07,1099,5.4082,판타지,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Korean Film Council', 'Alpha Pictures', 'kth', 'Union Investment Partners']",['KR'],2017,12,5.884370054644808
+397567,신과함께-죄와 벌,신과함께-죄와 벌,ko,2017-12-20,139,18300000,125983972,8.07,1099,5.4082,스릴러,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Korean Film Council', 'Alpha Pictures', 'kth', 'Union Investment Partners']",['KR'],2017,12,5.884370054644808
+407887,인천상륙작전,인천상륙작전,ko,2016-07-27,110,12700000,49196532,5.9,215,2.2879,역사,"['Taewon Entertainment', 'CJ Entertainment', 'Union Investment Partners', 'Finecut', 'Celltrion Entertainment', 'KBS Media', 'Korea Investment Partners', 'KBS']",['KR'],2016,7,2.8737426771653545
+407887,인천상륙작전,인천상륙작전,ko,2016-07-27,110,12700000,49196532,5.9,215,2.2879,드라마,"['Taewon Entertainment', 'CJ Entertainment', 'Union Investment Partners', 'Finecut', 'Celltrion Entertainment', 'KBS Media', 'Korea Investment Partners', 'KBS']",['KR'],2016,7,2.8737426771653545
+407887,인천상륙작전,인천상륙작전,ko,2016-07-27,110,12700000,49196532,5.9,215,2.2879,전쟁,"['Taewon Entertainment', 'CJ Entertainment', 'Union Investment Partners', 'Finecut', 'Celltrion Entertainment', 'KBS Media', 'Korea Investment Partners', 'KBS']",['KR'],2016,7,2.8737426771653545
+407887,인천상륙작전,인천상륙작전,ko,2016-07-27,110,12700000,49196532,5.9,215,2.2879,액션,"['Taewon Entertainment', 'CJ Entertainment', 'Union Investment Partners', 'Finecut', 'Celltrion Entertainment', 'KBS Media', 'Korea Investment Partners', 'KBS']",['KR'],2016,7,2.8737426771653545
+429450,판도라,판도라,ko,2016-12-07,136,13938145,30169000,7.547,489,2.1143,스릴러,"['Next Entertainment World', 'CAC Entertainment']",['KR'],2016,12,1.1644917598432216
+429450,판도라,판도라,ko,2016-12-07,136,13938145,30169000,7.547,489,2.1143,드라마,"['Next Entertainment World', 'CAC Entertainment']",['KR'],2016,12,1.1644917598432216
+429450,판도라,판도라,ko,2016-12-07,136,13938145,30169000,7.547,489,2.1143,액션,"['Next Entertainment World', 'CAC Entertainment']",['KR'],2016,12,1.1644917598432216
+434119,공조,공조,ko,2017-01-18,125,8520000,56100000,6.851,134,1.4585,액션,"['CJ Entertainment', 'JK Film', 'Rear Window', 'HB Entertainment']",['KR'],2017,1,5.584507042253521
+434119,공조,공조,ko,2017-01-18,125,8520000,56100000,6.851,134,1.4585,드라마,"['CJ Entertainment', 'JK Film', 'Rear Window', 'HB Entertainment']",['KR'],2017,1,5.584507042253521
+436391,군함도,군함도,ko,2017-07-26,132,21000000,46183383,7.159,270,1.9436,액션,"['Filmmaker R&K', 'CJ Entertainment', 'filmK']",['KR'],2017,7,1.1992087142857142
+436391,군함도,군함도,ko,2017-07-26,132,21000000,46183383,7.159,270,1.9436,역사,"['Filmmaker R&K', 'CJ Entertainment', 'filmK']",['KR'],2017,7,1.1992087142857142
+436391,군함도,군함도,ko,2017-07-26,132,21000000,46183383,7.159,270,1.9436,드라마,"['Filmmaker R&K', 'CJ Entertainment', 'filmK']",['KR'],2017,7,1.1992087142857142
+436391,군함도,군함도,ko,2017-07-26,132,21000000,46183383,7.159,270,1.9436,전쟁,"['Filmmaker R&K', 'CJ Entertainment', 'filmK']",['KR'],2017,7,1.1992087142857142
+437068,택시운전사,택시운전사,ko,2017-08-02,137,12820005,81927980,8.058,1065,3.6569,액션,"['The LAMP', 'Showbox']",['KR'],2017,8,5.390635573075049
+437068,택시운전사,택시운전사,ko,2017-08-02,137,12820005,81927980,8.058,1065,3.6569,드라마,"['The LAMP', 'Showbox']",['KR'],2017,8,5.390635573075049
+437068,택시운전사,택시운전사,ko,2017-08-02,137,12820005,81927980,8.058,1065,3.6569,역사,"['The LAMP', 'Showbox']",['KR'],2017,8,5.390635573075049
+437103,1987,1987,ko,2017-12-27,129,12308000,49380115,8.117,158,1.6982,드라마,"['CJ Entertainment', 'Woojeong Film']",['KR'],2017,12,3.0120340428989274
+437103,1987,1987,ko,2017-12-27,129,12308000,49380115,8.117,158,1.6982,역사,"['CJ Entertainment', 'Woojeong Film']",['KR'],2017,12,3.0120340428989274
+437103,1987,1987,ko,2017-12-27,129,12308000,49380115,8.117,158,1.6982,스릴러,"['CJ Entertainment', 'Woojeong Film']",['KR'],2017,12,3.0120340428989274
+437109,악녀,악녀,ko,2017-06-08,123,125000,8737458,6.909,723,2.281,액션,"['Apeitda', 'Next Entertainment World', 'Contents Panda']",['KR'],2017,6,68.899664
+437109,악녀,악녀,ko,2017-06-08,123,125000,8737458,6.909,723,2.281,범죄,"['Apeitda', 'Next Entertainment World', 'Contents Panda']",['KR'],2017,6,68.899664
+437109,악녀,악녀,ko,2017-06-08,123,125000,8737458,6.909,723,2.281,드라마,"['Apeitda', 'Next Entertainment World', 'Contents Panda']",['KR'],2017,6,68.899664
+437109,악녀,악녀,ko,2017-06-08,123,125000,8737458,6.909,723,2.281,스릴러,"['Apeitda', 'Next Entertainment World', 'Contents Panda']",['KR'],2017,6,68.899664
+479718,범죄도시,범죄도시,ko,2017-10-03,121,5900000,52946454,7.679,474,6.8052,액션,"['Hong Film', 'BA Entertainment']",['KR'],2017,10,7.973975254237288
+479718,범죄도시,범죄도시,ko,2017-10-03,121,5900000,52946454,7.679,474,6.8052,범죄,"['Hong Film', 'BA Entertainment']",['KR'],2017,10,7.973975254237288
+479718,범죄도시,범죄도시,ko,2017-10-03,121,5900000,52946454,7.679,474,6.8052,스릴러,"['Hong Film', 'BA Entertainment']",['KR'],2017,10,7.973975254237288
+486589,레드슈즈,레드슈즈,ko,2019-07-25,92,20000000,10054356,7.7,1107,6.078,애니메이션,"['Sidus', 'Next Entertainment World', 'LOCUS Corporation', 'Finecut', 'Sidus Animation']",['KR'],2019,7,-0.4972822
+486589,레드슈즈,레드슈즈,ko,2019-07-25,92,20000000,10054356,7.7,1107,6.078,판타지,"['Sidus', 'Next Entertainment World', 'LOCUS Corporation', 'Finecut', 'Sidus Animation']",['KR'],2019,7,-0.4972822
+486589,레드슈즈,레드슈즈,ko,2019-07-25,92,20000000,10054356,7.7,1107,6.078,가족,"['Sidus', 'Next Entertainment World', 'LOCUS Corporation', 'Finecut', 'Sidus Animation']",['KR'],2019,7,-0.4972822
+486589,레드슈즈,레드슈즈,ko,2019-07-25,92,20000000,10054356,7.7,1107,6.078,코미디,"['Sidus', 'Next Entertainment World', 'LOCUS Corporation', 'Finecut', 'Sidus Animation']",['KR'],2019,7,-0.4972822
+486589,레드슈즈,레드슈즈,ko,2019-07-25,92,20000000,10054356,7.7,1107,6.078,로맨스,"['Sidus', 'Next Entertainment World', 'LOCUS Corporation', 'Finecut', 'Sidus Animation']",['KR'],2019,7,-0.4972822
+486589,레드슈즈,레드슈즈,ko,2019-07-25,92,20000000,10054356,7.7,1107,6.078,모험,"['Sidus', 'Next Entertainment World', 'LOCUS Corporation', 'Finecut', 'Sidus Animation']",['KR'],2019,7,-0.4972822
+491584,버닝,버닝,ko,2018-05-17,148,7280000,6591038,7.382,1692,3.9276,미스터리,"['Pinehouse Film', 'NOWFILM', 'NHK']","['JP', 'KR']",2018,5,-0.09463763736263736
+491584,버닝,버닝,ko,2018-05-17,148,7280000,6591038,7.382,1692,3.9276,드라마,"['Pinehouse Film', 'NOWFILM', 'NHK']","['JP', 'KR']",2018,5,-0.09463763736263736
+491584,버닝,버닝,ko,2018-05-17,148,7280000,6591038,7.382,1692,3.9276,스릴러,"['Pinehouse Film', 'NOWFILM', 'NHK']","['JP', 'KR']",2018,5,-0.09463763736263736
+496243,기생충,기생충,ko,2019-05-30,131,11363000,257591776,8.498,19364,15.6336,코미디,['Barunson E&A'],['KR'],2019,5,21.669345771363197
+496243,기생충,기생충,ko,2019-05-30,131,11363000,257591776,8.498,19364,15.6336,스릴러,['Barunson E&A'],['KR'],2019,5,21.669345771363197
+496243,기생충,기생충,ko,2019-05-30,131,11363000,257591776,8.498,19364,15.6336,드라마,['Barunson E&A'],['KR'],2019,5,21.669345771363197
+517991,공작,공작,ko,2018-08-08,137,17000000,3175,7.389,198,1.6817,드라마,"['Sanai Pictures', 'Moonlight Film', 'CJ Entertainment']",['KR'],2018,8,-0.9998132352941177
+517991,공작,공작,ko,2018-08-08,137,17000000,3175,7.389,198,1.6817,역사,"['Sanai Pictures', 'Moonlight Film', 'CJ Entertainment']",['KR'],2018,8,-0.9998132352941177
+517991,공작,공작,ko,2018-08-08,137,17000000,3175,7.389,198,1.6817,스릴러,"['Sanai Pictures', 'Moonlight Film', 'CJ Entertainment']",['KR'],2018,8,-0.9998132352941177
+518068,신과함께-인과 연,신과함께-인과 연,ko,2018-08-01,141,18300000,112790210,8.068,700,4.6059,액션,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Union Investment Partners', 'Korean Film Council', 'Art Service', 'Alpha Pictures']",['KR'],2018,8,5.1633994535519125
+518068,신과함께-인과 연,신과함께-인과 연,ko,2018-08-01,141,18300000,112790210,8.068,700,4.6059,모험,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Union Investment Partners', 'Korean Film Council', 'Art Service', 'Alpha Pictures']",['KR'],2018,8,5.1633994535519125
+518068,신과함께-인과 연,신과함께-인과 연,ko,2018-08-01,141,18300000,112790210,8.068,700,4.6059,판타지,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Union Investment Partners', 'Korean Film Council', 'Art Service', 'Alpha Pictures']",['KR'],2018,8,5.1633994535519125
+518068,신과함께-인과 연,신과함께-인과 연,ko,2018-08-01,141,18300000,112790210,8.068,700,4.6059,스릴러,"['Lotte Entertainment', 'Dexter Studios', 'Realies Pictures', 'Union Investment Partners', 'Korean Film Council', 'Art Service', 'Alpha Pictures']",['KR'],2018,8,5.1633994535519125
+530254,마녀,마녀,ko,2018-06-27,125,5500000,24340302,7.894,654,7.463,액션,"['Peppermint & Company', 'Warner Bros. Korea', 'Goldmoon Film', 'Finecut', 'Huayi Tencent Entertainment', 'Union Investment Partners']","['HK', 'KR']",2018,6,3.4255094545454545
+530254,마녀,마녀,ko,2018-06-27,125,5500000,24340302,7.894,654,7.463,미스터리,"['Peppermint & Company', 'Warner Bros. Korea', 'Goldmoon Film', 'Finecut', 'Huayi Tencent Entertainment', 'Union Investment Partners']","['HK', 'KR']",2018,6,3.4255094545454545
+530254,마녀,마녀,ko,2018-06-27,125,5500000,24340302,7.894,654,7.463,SF,"['Peppermint & Company', 'Warner Bros. Korea', 'Goldmoon Film', 'Finecut', 'Huayi Tencent Entertainment', 'Union Investment Partners']","['HK', 'KR']",2018,6,3.4255094545454545
+535389,안시성,안시성,ko,2018-09-19,135,13305000,41509280,6.8,173,2.4536,전쟁,"['Soojak Film', 'Next Entertainment World', 'Studio & New']",['KR'],2018,9,2.119825629462608
+535389,안시성,안시성,ko,2018-09-19,135,13305000,41509280,6.8,173,2.4536,역사,"['Soojak Film', 'Next Entertainment World', 'Studio & New']",['KR'],2018,9,2.119825629462608
+535389,안시성,안시성,ko,2018-09-19,135,13305000,41509280,6.8,173,2.4536,액션,"['Soojak Film', 'Next Entertainment World', 'Studio & New']",['KR'],2018,9,2.119825629462608
+544627,암수살인,암수살인,ko,2018-10-03,110,7120949,29433930,6.628,86,1.0853,범죄,"['Film 295', 'Blossom Pictures', 'Showbox']",['KR'],2018,10,3.133428002363168
+544627,암수살인,암수살인,ko,2018-10-03,110,7120949,29433930,6.628,86,1.0853,드라마,"['Film 295', 'Blossom Pictures', 'Showbox']",['KR'],2018,10,3.133428002363168
+567646,극한직업,극한직업,ko,2019-01-23,111,8120000,124652206,7.144,316,3.046,액션,"['CJ Entertainment', 'about Film', 'Haegrimm Pictures']",['KR'],2019,1,14.351256896551725
+567646,극한직업,극한직업,ko,2019-01-23,111,8120000,124652206,7.144,316,3.046,코미디,"['CJ Entertainment', 'about Film', 'Haegrimm Pictures']",['KR'],2019,1,14.351256896551725
+567646,극한직업,극한직업,ko,2019-01-23,111,8120000,124652206,7.144,316,3.046,범죄,"['CJ Entertainment', 'about Film', 'Haegrimm Pictures']",['KR'],2019,1,14.351256896551725
+571783,자전차왕 엄복동,자전차왕 엄복동,ko,2019-02-27,118,12547000,1091477,6.7,16,1.2252,드라마,['Celltrion Entertainment'],['KR'],2019,2,-0.9130089264365984
+572164,엑시트,엑시트,ko,2019-07-31,103,10892000,69501772,7.652,264,2.0487,액션,"['Filmmaker R&K', 'filmK', 'CJ Entertainment']",['KR'],2019,7,5.3809926551597504
+572164,엑시트,엑시트,ko,2019-07-31,103,10892000,69501772,7.652,264,2.0487,코미디,"['Filmmaker R&K', 'filmK', 'CJ Entertainment']",['KR'],2019,7,5.3809926551597504
+575718,해치지않아,해치지않아,ko,2020-01-15,117,8100000,8300000,6.221,77,3.9902,코미디,"['about Film', 'Acemaker Movieworks', 'DCG Plus', 'Finecut']",['KR'],2020,1,0.024691358024691357
+575718,해치지않아,해치지않아,ko,2020-01-15,117,8100000,8300000,6.221,77,3.9902,드라마,"['about Film', 'Acemaker Movieworks', 'DCG Plus', 'Finecut']",['KR'],2020,1,0.024691358024691357
+581387,백두산,백두산,ko,2019-12-19,128,17700000,61321941,6.816,597,3.0458,액션,"['Dexter Studios', 'CJ Entertainment', 'Perfect Storm Film', 'Dexter Pictures']",['KR'],2019,12,2.4645164406779663
+581387,백두산,백두산,ko,2019-12-19,128,17700000,61321941,6.816,597,3.0458,모험,"['Dexter Studios', 'CJ Entertainment', 'Perfect Storm Film', 'Dexter Pictures']",['KR'],2019,12,2.4645164406779663
+581387,백두산,백두산,ko,2019-12-19,128,17700000,61321941,6.816,597,3.0458,스릴러,"['Dexter Studios', 'CJ Entertainment', 'Perfect Storm Film', 'Dexter Pictures']",['KR'],2019,12,2.4645164406779663
+581392,반도,반도,ko,2020-07-15,115,17000000,42698327,6.747,2456,5.1746,공포,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'Michigan Venture Capital']",['KR'],2020,7,1.511666294117647
+581392,반도,반도,ko,2020-07-15,115,17000000,42698327,6.747,2456,5.1746,액션,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'Michigan Venture Capital']",['KR'],2020,7,1.511666294117647
+581392,반도,반도,ko,2020-07-15,115,17000000,42698327,6.747,2456,5.1746,스릴러,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'Michigan Venture Capital']",['KR'],2020,7,1.511666294117647
+581392,반도,반도,ko,2020-07-15,115,17000000,42698327,6.747,2456,5.1746,모험,"['Next Entertainment World', 'RedPeter Films', 'Contents Panda', 'Union Investment Partners', 'Michigan Venture Capital']",['KR'],2020,7,1.511666294117647
+581526,다만 악에서 구하소서,다만 악에서 구하소서,ko,2020-08-05,108,12000000,34662454,6.88,208,3.4108,범죄,"['Hive Media Corp', 'CJ Entertainment']",['KR'],2020,8,1.8885378333333334
+581526,다만 악에서 구하소서,다만 악에서 구하소서,ko,2020-08-05,108,12000000,34662454,6.88,208,3.4108,액션,"['Hive Media Corp', 'CJ Entertainment']",['KR'],2020,8,1.8885378333333334
+581526,다만 악에서 구하소서,다만 악에서 구하소서,ko,2020-08-05,108,12000000,34662454,6.88,208,3.4108,드라마,"['Hive Media Corp', 'CJ Entertainment']",['KR'],2020,8,1.8885378333333334
+581528,악인전,악인전,ko,2019-05-15,112,6500000,25775371,7.848,1310,14.1994,범죄,"['Acemaker Movieworks', 'BA Entertainment', 'Kiwi Media Group', 'B&C CONTENT']",['KR'],2019,5,2.9654416923076923
+581528,악인전,악인전,ko,2019-05-15,112,6500000,25775371,7.848,1310,14.1994,액션,"['Acemaker Movieworks', 'BA Entertainment', 'Kiwi Media Group', 'B&C CONTENT']",['KR'],2019,5,2.9654416923076923
+581528,악인전,악인전,ko,2019-05-15,112,6500000,25775371,7.848,1310,14.1994,스릴러,"['Acemaker Movieworks', 'BA Entertainment', 'Kiwi Media Group', 'B&C CONTENT']",['KR'],2019,5,2.9654416923076923
+591120,해적: 도깨비 깃발,해적: 도깨비 깃발,ko,2022-01-26,126,19597380,10247262,6.5,212,1.9713,액션,"['Oscar 10 Studio', 'ANEW', 'Lotte Entertainment']",['KR'],2022,1,-0.4771106137657177
+591120,해적: 도깨비 깃발,해적: 도깨비 깃발,ko,2022-01-26,126,19597380,10247262,6.5,212,1.9713,모험,"['Oscar 10 Studio', 'ANEW', 'Lotte Entertainment']",['KR'],2022,1,-0.4771106137657177
+591120,해적: 도깨비 깃발,해적: 도깨비 깃발,ko,2022-01-26,126,19597380,10247262,6.5,212,1.9713,코미디,"['Oscar 10 Studio', 'ANEW', 'Lotte Entertainment']",['KR'],2022,1,-0.4771106137657177
+591120,해적: 도깨비 깃발,해적: 도깨비 깃발,ko,2022-01-26,126,19597380,10247262,6.5,212,1.9713,판타지,"['Oscar 10 Studio', 'ANEW', 'Lotte Entertainment']",['KR'],2022,1,-0.4771106137657177
+601796,외계+인 1부,외계+인 1부,ko,2022-07-20,142,24500000,12109608,6.831,483,7.2039,SF,"['Caper Film', 'CJ Entertainment']",['KR'],2022,7,-0.5057302857142857
+601796,외계+인 1부,외계+인 1부,ko,2022-07-20,142,24500000,12109608,6.831,483,7.2039,액션,"['Caper Film', 'CJ Entertainment']",['KR'],2022,7,-0.5057302857142857
+601796,외계+인 1부,외계+인 1부,ko,2022-07-20,142,24500000,12109608,6.831,483,7.2039,판타지,"['Caper Film', 'CJ Entertainment']",['KR'],2022,7,-0.5057302857142857
+601796,외계+인 1부,외계+인 1부,ko,2022-07-20,142,24500000,12109608,6.831,483,7.2039,모험,"['Caper Film', 'CJ Entertainment']",['KR'],2022,7,-0.5057302857142857
+602463,인질,인질,ko,2021-08-18,93,6144000,13000000,6.9,38,1.2412,액션,"['Filmmaker R&K', 'Next Entertainment World', 'The Sam Company', 'Library Pictures International']",['KR'],2021,8,1.1158854166666667
+614696,#살아있다,#살아있다,ko,2020-06-24,98,6300000,13416285,7.221,1922,4.1909,액션,"['Lotte Entertainment', 'Zip Cinema', 'Perspective Pictures']",['KR'],2020,6,1.1295690476190476
+614696,#살아있다,#살아있다,ko,2020-06-24,98,6300000,13416285,7.221,1922,4.1909,공포,"['Lotte Entertainment', 'Zip Cinema', 'Perspective Pictures']",['KR'],2020,6,1.1295690476190476
+614696,#살아있다,#살아있다,ko,2020-06-24,98,6300000,13416285,7.221,1922,4.1909,SF,"['Lotte Entertainment', 'Zip Cinema', 'Perspective Pictures']",['KR'],2020,6,1.1295690476190476
+619803,범죄도시 2,범죄도시 2,ko,2022-05-18,106,7600000,101166707,7.29,366,6.0988,액션,"['BA Entertainment', 'Hong Film', 'Big Punch Pictures']",['KR'],2022,5,12.311408815789473
+619803,범죄도시 2,범죄도시 2,ko,2022-05-18,106,7600000,101166707,7.29,366,6.0988,범죄,"['BA Entertainment', 'Hong Film', 'Big Punch Pictures']",['KR'],2022,5,12.311408815789473
+619803,범죄도시 2,범죄도시 2,ko,2022-05-18,106,7600000,101166707,7.29,366,6.0988,스릴러,"['BA Entertainment', 'Hong Film', 'Big Punch Pictures']",['KR'],2022,5,12.311408815789473
+619803,범죄도시 2,범죄도시 2,ko,2022-05-18,106,7600000,101166707,7.29,366,6.0988,모험,"['BA Entertainment', 'Hong Film', 'Big Punch Pictures']",['KR'],2022,5,12.311408815789473
+623135,싱크홀,싱크홀,ko,2021-08-11,113,11400000,17970000,6.9,147,1.9947,코미디,"['The Tower Pictures', 'Showbox']",['KR'],2021,8,0.5763157894736842
+623135,싱크홀,싱크홀,ko,2021-08-11,113,11400000,17970000,6.9,147,1.9947,드라마,"['The Tower Pictures', 'Showbox']",['KR'],2021,8,0.5763157894736842
+626872,비상선언,비상선언,ko,2022-08-03,140,18052672,19200000,7.516,394,2.8922,액션,"['CJeS Studios', 'MAGNUM9', 'Cine Joo', 'Dexter Studios', 'Showbox']",['KR'],2022,8,0.06355446994217809
+626872,비상선언,비상선언,ko,2022-08-03,140,18052672,19200000,7.516,394,2.8922,드라마,"['CJeS Studios', 'MAGNUM9', 'Cine Joo', 'Dexter Studios', 'Showbox']",['KR'],2022,8,0.06355446994217809
+626872,비상선언,비상선언,ko,2022-08-03,140,18052672,19200000,7.516,394,2.8922,스릴러,"['CJeS Studios', 'MAGNUM9', 'Cine Joo', 'Dexter Studios', 'Showbox']",['KR'],2022,8,0.06355446994217809
+660360,노량: 죽음의 바다,노량: 죽음의 바다,ko,2023-12-20,152,40000000,34210966,6.4,149,2.6362,전쟁,['Big Stone Pictures'],['KR'],2023,12,-0.14472585
+660360,노량: 죽음의 바다,노량: 죽음의 바다,ko,2023-12-20,152,40000000,34210966,6.4,149,2.6362,액션,['Big Stone Pictures'],['KR'],2023,12,-0.14472585
+660360,노량: 죽음의 바다,노량: 죽음의 바다,ko,2023-12-20,152,40000000,34210966,6.4,149,2.6362,역사,['Big Stone Pictures'],['KR'],2023,12,-0.14472585
+660360,노량: 죽음의 바다,노량: 죽음의 바다,ko,2023-12-20,152,40000000,34210966,6.4,149,2.6362,드라마,['Big Stone Pictures'],['KR'],2023,12,-0.14472585
+726139,탈출: 프로젝트 사일런스,탈출: 프로젝트 사일런스,ko,2024-07-11,96,14750000,6283415,7.0,352,7.8078,스릴러,"['Blaad Studios', 'CJ ENM', 'CJ ENM Studios', 'CJ Entertainment']",['KR'],2024,7,-0.5740057627118644
+726139,탈출: 프로젝트 사일런스,탈출: 프로젝트 사일런스,ko,2024-07-11,96,14750000,6283415,7.0,352,7.8078,액션,"['Blaad Studios', 'CJ ENM', 'CJ ENM Studios', 'CJ Entertainment']",['KR'],2024,7,-0.5740057627118644
+726139,탈출: 프로젝트 사일런스,탈출: 프로젝트 사일런스,ko,2024-07-11,96,14750000,6283415,7.0,352,7.8078,공포,"['Blaad Studios', 'CJ ENM', 'CJ ENM Studios', 'CJ Entertainment']",['KR'],2024,7,-0.5740057627118644
+726139,탈출: 프로젝트 사일런스,탈출: 프로젝트 사일런스,ko,2024-07-11,96,14750000,6283415,7.0,352,7.8078,SF,"['Blaad Studios', 'CJ ENM', 'CJ ENM Studios', 'CJ Entertainment']",['KR'],2024,7,-0.5740057627118644
+726139,탈출: 프로젝트 사일런스,탈출: 프로젝트 사일런스,ko,2024-07-11,96,14750000,6283415,7.0,352,7.8078,모험,"['Blaad Studios', 'CJ ENM', 'CJ ENM Studios', 'CJ Entertainment']",['KR'],2024,7,-0.5740057627118644
+727340,헌트,헌트,ko,2022-08-10,131,17000000,25994,6.731,187,2.6506,액션,"['Sanai Pictures', 'Artist Studio']",['KR'],2022,8,-0.9984709411764706
+727340,헌트,헌트,ko,2022-08-10,131,17000000,25994,6.731,187,2.6506,미스터리,"['Sanai Pictures', 'Artist Studio']",['KR'],2022,8,-0.9984709411764706
+727340,헌트,헌트,ko,2022-08-10,131,17000000,25994,6.731,187,2.6506,드라마,"['Sanai Pictures', 'Artist Studio']",['KR'],2022,8,-0.9984709411764706
+753091,더 문,더 문,ko,2023-08-02,129,20000000,92718,6.547,181,1.6001,드라마,"['Blaad Studios', 'CJ ENM Studios', 'NaruN', 'Cinema Plus', 'Dexter Studios', 'CJ Entertainment']",['KR'],2023,8,-0.9953641
+753091,더 문,더 문,ko,2023-08-02,129,20000000,92718,6.547,181,1.6001,모험,"['Blaad Studios', 'CJ ENM Studios', 'NaruN', 'Cinema Plus', 'Dexter Studios', 'CJ Entertainment']",['KR'],2023,8,-0.9953641
+753091,더 문,더 문,ko,2023-08-02,129,20000000,92718,6.547,181,1.6001,SF,"['Blaad Studios', 'CJ ENM Studios', 'NaruN', 'Cinema Plus', 'Dexter Studios', 'CJ Entertainment']",['KR'],2023,8,-0.9953641
+793058,하이파이브,하이파이브,ko,2025-05-30,120,14450000,10551515,7.095,21,4.3287,SF,['Annapurna Films'],['KR'],2025,5,-0.26979134948096883
+793058,하이파이브,하이파이브,ko,2025-05-30,120,14450000,10551515,7.095,21,4.3287,액션,['Annapurna Films'],['KR'],2025,5,-0.26979134948096883
+793058,하이파이브,하이파이브,ko,2025-05-30,120,14450000,10551515,7.095,21,4.3287,코미디,['Annapurna Films'],['KR'],2025,5,-0.26979134948096883
+793058,하이파이브,하이파이브,ko,2025-05-30,120,14450000,10551515,7.095,21,4.3287,판타지,['Annapurna Films'],['KR'],2025,5,-0.26979134948096883
+799379,늑대사냥,늑대사냥,ko,2022-09-21,122,9000000,20541,6.369,398,4.8181,액션,"['The Contents On', 'Contents G', 'Cheum Film', 'Finecut']",['KR'],2022,9,-0.9977176666666666
+799379,늑대사냥,늑대사냥,ko,2022-09-21,122,9000000,20541,6.369,398,4.8181,스릴러,"['The Contents On', 'Contents G', 'Cheum Film', 'Finecut']",['KR'],2022,9,-0.9977176666666666
+799379,늑대사냥,늑대사냥,ko,2022-09-21,122,9000000,20541,6.369,398,4.8181,공포,"['The Contents On', 'Contents G', 'Cheum Film', 'Finecut']",['KR'],2022,9,-0.9977176666666666
+799379,늑대사냥,늑대사냥,ko,2022-09-21,122,9000000,20541,6.369,398,4.8181,범죄,"['The Contents On', 'Contents G', 'Cheum Film', 'Finecut']",['KR'],2022,9,-0.9977176666666666
+928713,소설가의 영화,소설가의 영화,ko,2022-04-21,92,71560,382227,6.6,41,0.8457,드라마,['Jeonwonsa Film'],['KR'],2022,4,4.341349916154276
