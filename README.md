@@ -163,3 +163,5 @@ ipython
 🍅 **김도민** – 기본 데이터 수집 및 전처리, EDA 및 시각화, 모델링
 
 🥔 **임수인** - 추가 데이터 수집 및 전처리, EDA 및 시각화, 모델링 및 보고서 작성
+
+![complete](https://i.pinimg.com/originals/fd/38/b8/fd38b81c60a8dc0f46a7780293d79f21.jpg)
