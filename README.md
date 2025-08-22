@@ -70,8 +70,6 @@ movie_data_analysis/
 ├── requirements.txt
 ├── .gitignore
 ├── .env (숨김 파일)
-├── tomato/ (🍅 도민 작업 공간 폴더 👩🏻‍💻)
-├── potato/ (🥔 수인 작업 공간 폴더 👩🏻‍💻)
 ├── data/
 │   ├── processed/
 │   │   ├── merged_movie_data.csv (숨김 파일)
@@ -86,6 +84,8 @@ movie_data_analysis/
 │   ├── assignment_3.ipynb
 │   ├── assignment_4.ipynb
 │   └── collect_data.ipynb
+├── tomato/ (🍅 도민 작업 공간 폴더 👩🏻‍💻)
+├── potato/ (🥔 수인 작업 공간 폴더 👩🏻‍💻)
 ├── src/
 │   ├── collect_data.py
 │   ├── analyze_movies.py
