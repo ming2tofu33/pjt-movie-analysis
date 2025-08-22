@@ -70,6 +70,8 @@ movie_data_analysis/
 ├── requirements.txt
 ├── .gitignore
 ├── .env (숨김 파일)
+├── tomato/ (🍅 도민 작업 공간 폴더 👩🏻‍💻)
+├── potato/ (🥔 수인 작업 공간 폴더 👩🏻‍💻)
 ├── data/
 │   ├── processed/
 │   │   ├── merged_movie_data.csv (숨김 파일)
@@ -77,7 +79,7 @@ movie_data_analysis/
 │   │   ├── tmdb_kr_theatrical_clean_exploded.csv (숨김 파일)
 │   │   └── tmdb_with_credits_ko.csv (숨김 파일)
 │   └── raw/
-│       └── (수집된 원본 데이터)
+│       └── tmdb_kr_theatrical_2005_2025.csv (수집된 원본 데이터)
 ├── notebooks/
 │   ├── assignment_1.ipynb
 │   ├── assignment_2.ipynb
